@@ -73,3 +73,11 @@ td {
     border-bottom: 4px solid #ff7b54;
     border-top: 4px solid #ff7b54;
 }
+.reset{
+    width:100px;
+    height: 30px;
+    position:relative;
+    align-items: center;
+    background-color: #ffd56b;
+    border-color: #ffd56b;
+}
